@@ -4,7 +4,7 @@ import "./App.css";
 // import Greeting from "./Greeting";
 import Greeting from "./GreetingFunctional"
 
-class App extends React.Component {
+class App extends React.Component
   constructor(props: any) {
     super(props);
     this.state = {
