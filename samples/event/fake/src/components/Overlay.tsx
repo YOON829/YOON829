@@ -19,6 +19,6 @@ export const Overlay: FC<OverlayProps> = ({
         opacityClass ?? 'bg-black/70' ,
         "flex items-center justify-center"
     ].join(' ')
-    //props 는 기타등등느낌
+    //props 는 기타 등등 느낌
     return (<Div {...props} className={className} top="0" left="0" >{children}</Div>)
 }
