@@ -41,38 +41,38 @@
 // };
 
 //event 처리 부분
-
-import EventListener from "./pages/EventListener";
-import OnClick from "./pages/OnClick";
-import ReactOnClick from "./pages/ReactOnClick";
-import DispatchEvent from "./pages/DispatchEvent";
-import EventBubbling from "./pages/EventBubbling";
-import StopPropagation from "./pages/StopPropagation";
-import VariousInputs from "./pages/VariousInputs";
-import DragDrop from "./pages/DragDrop";
-import FileDrop from "./pages/FileDrop";
-import FileInput from "./pages/FileInput";
-import OnChange from "./pages/OnChange";
-
-export const App = () => {
-  return (
-    <>
-      <FileDrop />
-      <DragDrop />
-      <FileInput />
-      <OnChange />
-      <VariousInputs />
-      <StopPropagation />
-      <EventBubbling />
-      <DispatchEvent />
-      <ReactOnClick />
-      <OnClick />
-      <EventListener />
-    </>
-  );
-};
-
-export default App;
+//
+// import EventListener from "./pages/EventListener";
+// import OnClick from "./pages/OnClick";
+// import ReactOnClick from "./pages/ReactOnClick";
+// import DispatchEvent from "./pages/DispatchEvent";
+// import EventBubbling from "./pages/EventBubbling";
+// import StopPropagation from "./pages/StopPropagation";
+// import VariousInputs from "./pages/VariousInputs";
+// import DragDrop from "./pages/DragDrop";
+// import FileDrop from "./pages/FileDrop";
+// import FileInput from "./pages/FileInput";
+// import OnChange from "./pages/OnChange";
+//
+// export const App = () => {
+//   return (
+//     <>
+//       <FileDrop />
+//       <DragDrop />
+//       <FileInput />
+//       <OnChange />
+//       <VariousInputs />
+//       <StopPropagation />
+//       <EventBubbling />
+//       <DispatchEvent />
+//       <ReactOnClick />
+//       <OnClick />
+//       <EventListener />
+//     </>
+//   );
+// };
+//
+// export default App;
 // export default App;
 
 //
@@ -93,3 +93,54 @@ export default App;
 //     </div>
 //     )
 // }
+
+// import Tailwindcss from './pages/Tailwindcss'
+// import Color from './pages/Color'
+// import TextTest from './pages/TextsTest'
+//
+//
+// export default function App(){
+//     return (
+//         <div>
+//             <TextTest />
+//             <Tailwindcss />
+//             <Color />
+//         </div>
+//     )
+//
+// }
+
+
+import DivTest from './pages/DivTest';
+import ViewportTest from './pages/ViewportTest';
+import HeightTest from './pages/HeightTest';
+import MarginTest from './pages/MarginTest';
+import ImageTest from './pages/ImageTest';
+import BackgroundImageTest from './pages/BackgroundImageTest';
+import DisplayTest from './pages/DisplayTest';
+import DisplayNoneTest from './pages/DisplayNoneTest';
+import AvatarTest from './pages/AvatarTest';
+import BorderTest from './pages/BorderTest';
+import PositionTest from './pages/PositionTest';
+import OverlayTest from './pages/OverlayTest';
+import PaddingTest from "./pages/PaddingTest";
+
+export default  function App() {
+    return(
+        <main>
+            <OverlayTest />
+            <PositionTest />
+            <BorderTest />
+            <AvatarTest />
+            <DisplayNoneTest />
+            <DisplayTest />
+            <BackgroundImageTest />
+            <ImageTest />
+            <MarginTest />
+            <HeightTest />
+            <ViewportTest />
+            <DivTest />
+            <PaddingTest/>
+        </main>
+    )
+}
