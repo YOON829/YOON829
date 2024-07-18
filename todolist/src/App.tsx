@@ -74,7 +74,7 @@ function App() {
       <button onClick={addItem}>추가</button>
 
       <TodoBoard todoList={todoList} onDelete={deleteItem} />
-    </main>
+    </main
   );
 }
 

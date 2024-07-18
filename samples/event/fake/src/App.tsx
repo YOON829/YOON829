@@ -182,6 +182,6 @@ export default function App() {
       <DirectionTest />
       <ButtonTest />
       <InputTest />
-      <ModalTest />
+      {/*<ModalTest />*/}
     </main>)
 }

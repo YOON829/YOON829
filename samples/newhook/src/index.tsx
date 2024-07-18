@@ -9,14 +9,23 @@ import reportWebVitals from './reportWebVitals';
 // import UseEffectApp2 from "./UseEffectApp2";
 // import UseSampleApp1 from "./UseSampleApp1";
 import UseContextApp1 from "./UseContextApp1";
-
+import UseRefApp1 from "./useRefApp1";
+import UseRefApp2 from "./useRefApp2";
+// import UseRefApp3 from "./useRefApp3";
+import UseRefApp4 from "./useRefApp4"
+import UseMemoApp1 from "./UseMemoApp1";
+import UseMemoApp2 from "./UseMemoApp2";
+import UseCallBackApp1 from "./UseCallBackApp1";
+import UseCallBackApp2 from "./UseCallBackApp2";
+import UseLayoutEffect from "./UseLayoutEffect";
+import UseLayoutEffectApp2 from "./UseLayoutEffectApp2";
 
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
 root.render(
   <React.Fragment>
-    <UseContextApp1 />
+    <UseLayoutEffectApp2 />
   </React.Fragment>
 );
 

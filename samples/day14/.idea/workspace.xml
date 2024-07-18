@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30ba3d99-67d6-43ad-85e7-7efe1175cd90" name="변경" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/samples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hook/new-timer/src/pages/ListCreator.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hook/new-timer/src/pages/ReduxClock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hook/new-timer/src/pages/UseReducerClock.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hook/new-timer/src/store/actions.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/Box.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/UseCallBackApp1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/UseCallBackApp2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/UseLayoutEffect.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/UseLayoutEffectApp2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/UseMemoApp1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/UseMemoApp2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/useRefApp1.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/useRefApp2.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/useRefApp3.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newhook/src/useRefApp4.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../event/fake/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../event/fake/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hook/hooks-components/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../hook/hooks-components/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hook/hooks-components/src/Greeting.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../hook/hooks-components/src/Greeting.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../hook/hooks-components/src/GreetingFunctional.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../hook/hooks-components/src/GreetingFunctional.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newhook/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../newhook/src/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../todolist/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../todolist/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2jOyDp6hRpjfUGB77cdDX8YyInj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/dev/yoon829/day14",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="30ba3d99-67d6-43ad-85e7-7efe1175cd90" name="변경" comment="" />
+      <created>1721272302672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721272302672</updated>
+      <workItem from="1721272303942" duration="20000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
